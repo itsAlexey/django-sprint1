@@ -60,5 +60,5 @@ def post_detail(request, post_id):
 
 def category_posts(request, category_slug):
     text_title = category_slug
-    context = {'category': text_title}
+    context = {'text_title': text_title}
     return render(request, 'blog/category.html', context)

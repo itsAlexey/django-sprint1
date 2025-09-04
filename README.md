@@ -1,7 +1,3 @@
-Отличный проект! Вот профессионально оформленный `README.md` для вашего Django-проекта `blogicum`. Вы можете скопировать этот текст и поместить его в файл `README.md` в корне вашей папки `django-sprint1`.
-
-***
-
 # Blogicum
 
 [![Django](https://img.shields.io/badge/Django-5.1-092E20?logo=django)](https://www.djangoproject.com/)

@@ -51,8 +51,7 @@ Dev/
     │   │   │   └── rules.html
     │   │   ├── includes/
     │   │   │   ├── footer.html
-    │   │   │   ├── header.html
-    │   │   │   └── posts_list.html
+    │   │   │   └── header.html
     │   │   ├── blog/
     │   │   │   ├── index.html
     │   │   │   ├── detail.html
